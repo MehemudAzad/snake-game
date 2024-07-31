@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1678033102 source:c:\users\dr.azad\desktop\snake_final\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1677510115 c:\users\dr.azad\desktop\snake_final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1676169242 c:\users\dr.azad\desktop\snake_final\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
